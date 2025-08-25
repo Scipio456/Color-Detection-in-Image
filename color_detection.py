@@ -27,7 +27,3 @@ cv2.imshow('Detected Blue Color', result)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-#Run
-#EVM: source ~/color-env/bin/activate
-#compile and run: python3 color_detection.py
